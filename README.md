@@ -5,7 +5,7 @@ Multicontext store for the great state management library signia
 `npm install @natesq/signia-store`
 
 
-![alt text](https://github.com/bernatesquirol/signia-store/blob/master/shapes.png?raw=true Croquis)
+![alt text](https://github.com/bernatesquirol/signia-store/blob/main/shapes.png?raw=true)
 
 ## Internal dev
 
