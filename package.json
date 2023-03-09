@@ -1,0 +1,22 @@
+{
+  "name": "signia-store",
+  "version": "1.0.1",
+  "description": "Multicontext store for the great state management library signia",
+  "repository": "https://github.com/bernatesquirol/signia-store",
+  "author": "bernat",
+  "license": "MIT",
+  "dependencies": {
+    "signia": "^0.0.9"
+  },
+  "scripts": {
+    "compile": "tsc && tsc --build tsconfig.es5.json",
+    "publish": "cd dist && npm publish --access=public"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-node-externals": "^2.5.2"
+
+  }
+}
